@@ -5,3 +5,6 @@ def objective(x):
 
 # compute targets
 results = objective(inputs)
+
+optima_x = 0.0
+optima_y = objective(optima_x)
